@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.AssemblyInfo.cs
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.exe
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.deps.json
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.runtimeconfig.json
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.dll
+C:\Users\bisky\Desktop\Unit 1\deliverable2\bin\Debug\netcoreapp3.1\deliverable2.pdb
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.dll
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.pdb
+C:\Users\bisky\Desktop\Unit 1\deliverable2\obj\Debug\netcoreapp3.1\deliverable2.genruntimeconfig.cache
